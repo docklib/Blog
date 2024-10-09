@@ -1,0 +1,9 @@
+-title- Game Request Form Reset -/title-
+-desc- Blog Post Made On 10/8/2024 -/desc-
+-p- Hello Everyone, I Have Been Trying To Keep Up With The Game Requests But I Have Decided To Reset All Responses After Seeing This: -/p-
+-img- ./Blog/formlol.png -/img-
+---
+-p- Theres No Way Im Catching Up Anytime Soon -/p-
+-p- Please Resubmit Any Game Request You have Submitted So I Can Add Them (Sorry) -/p-
+-p- Remember The Form is Read Every Saturday So Please Keep That In Mind -/p-
+-a-p-  Link To The Form - docs.google.com/forms/d/e/1FAIpQLScx-LVOQHk0Gnsa_PhdtJdhLj3fGx8Z86y0MHPaJD76sLHEbA/viewform -/a-/p-
